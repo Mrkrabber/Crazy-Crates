@@ -94,7 +94,7 @@ Crate:
         - '&7Make it rain Money.'
         - '&6&lChance: &c&l20%'
       MaxRange: 100
-      Chance: 20
+      Chance: 30
       Firework: true
       Tiers:
         - 'Basic'
@@ -126,7 +126,7 @@ Crate:
         - '&7Make it rain a butt load of Money.'
         - '&6&lChance: &c&l20%'
       MaxRange: 100
-      Chance: 20
+      Chance: 4
       Firework: true
       Tiers:
         - 'Rare'
